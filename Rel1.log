@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.5.31)  18 DEC 2022 11:38
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/Debian) (preloaded format=pdflatex 2022.5.31)  24 DEC 2022 16:20
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -586,22 +586,78 @@ File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 LaTeX Font Info:    Trying to load font information for U+msb on input line 25.
  (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [1
+)
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}] (/home/davide/RelLab3/Rel1.aux) ) 
+LaTeX Warning: No positions in optional float specifier.
+               Default added (so using `tbp') on input line 34.
+
+<Diod.jpg, id=4, 1204.5pt x 1606.0pt>
+File: Diod.jpg Graphic file (type jpg)
+<use Diod.jpg>
+Package pdftex.def Info: Diod.jpg  used on input line 36.
+(pdftex.def)             Requested size: 132.4954pt x 176.66054pt.
+<Circ1.png, id=5, 434.12187pt x 230.36063pt>
+File: Circ1.png Graphic file (type png)
+<use Circ1.png>
+Package pdftex.def Info: Circ1.png  used on input line 38.
+(pdftex.def)             Requested size: 238.76776pt x 126.69872pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+
+Overfull \hbox (6.46162pt too wide) in paragraph at lines 110--127
+\OT1/cmr/m/n/10 jewn-f-vo-n-w-don-vp-sdn-v-pi-n-w-p-vm-w-pm-v-prm-p-vmrm-re-moew-jewn-f-vo-n-w-don-vp-sdnvpinwpvmwpmvprmpvmrmremo ew-jewn-
+ []
+
+
+Overfull \hbox (2.29497pt too wide) in paragraph at lines 110--127
+\OT1/cmr/m/n/10 don-vp-sdn-v-pi-n-w-p-vm-w-pm-v-prm-p-vmrm-re-moew-jewn-f-vo-n-w-don-vp-sdnvpinwpvmwpmvprmpvmrmremo ew-jewn-f-vo-n-w-don-
+ []
+
+
+Overfull \hbox (388.68483pt too wide) in paragraph at lines 110--127
+\OT1/cmr/m/n/10 vp-sdn-v-pi-n-w-p-vm-w-pm-v-prm-p-vmrm-re-moew-jewn-f-vo-n-w-don-vp-sdnvpinwpvmwpmvprmpvmrmremoewjewnfvonwdonvpsdnvpinwpvmwpmvprmpvmrmremoewjewnfvonwdonvpsdnvpinwpvmwpmvprmpvmrmremo
+ []
+
+
+Overfull \hbox (6.46162pt too wide) in paragraph at lines 110--127
+\OT1/cmr/m/n/10 jewn-f-vo-n-w-don-vp-sdn-v-pi-n-w-p-vm-w-pm-v-prm-p-vmrm-re-moew-jewn-f-vo-n-w-don-vp-sdnvpinwpvmwpmvprmpvmrmremo ew-jewn-
+ []
+
+
+Overfull \hbox (2.29497pt too wide) in paragraph at lines 110--127
+\OT1/cmr/m/n/10 don-vp-sdn-v-pi-n-w-p-vm-w-pm-v-prm-p-vmrm-re-moew-jewn-f-vo-n-w-don-vp-sdnvpinwpvmwpmvprmpvmrmremo ew-jewn-f-vo-n-w-don-
+ []
+
+
+Overfull \hbox (1.2394pt too wide) in paragraph at lines 110--127
+\OT1/cmr/m/n/10 sdn-v-pi-n-w-p-vm-w-pm-v-prm-p-vmrm-re-moew-jewn-f-vo-n-w-don-vp-sdnvpinwpvmwpmvprmpvmrmremo ew-jewn-f-vo-n-w-don-vp-sdn-
+ []
+
+
+Overfull \hbox (5.07275pt too wide) in paragraph at lines 110--127
+\OT1/cmr/m/n/10 p-vm-w-pm-v-prm-p-vmrm-re-moew-jewn-f-vo-n-w-don-vp-sdnvpinwpvmwpmvprmpvmrmremo ew-jewn-f-vo-n-w-don-vp-sdn-v-pi-n-w-p-vm-
+ []
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} </home/davide/RelLab3/Diod.jpg> </home/davide/RelLab3/Circ1.png>] [2] (/home/davide/RelLab3/Rel1.aux) ) 
 Here is how much of TeX's memory you used:
- 28232 strings out of 483099
- 688459 string characters out of 5964234
- 1038757 words of memory out of 5000000
- 42899 multiletter control sequences out of 15000+600000
- 542407 words of font info for 65 fonts, out of 8000000 for 9000
+ 28248 strings out of 483099
+ 688628 string characters out of 5964234
+ 1051757 words of memory out of 5000000
+ 42910 multiletter control sequences out of 15000+600000
+ 542753 words of font info for 66 fonts, out of 8000000 for 9000
  59 hyphenation exceptions out of 8191
- 60i,6n,71p,817b,382s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on /home/davide/RelLab3/Rel1.pdf (1 page, 54053 bytes).
+ 60i,11n,71p,817b,504s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
+Output written on /home/davide/RelLab3/Rel1.pdf (2 pages, 305508 bytes).
 PDF statistics:
- 31 PDF objects out of 1000 (max. 8388607)
- 22 compressed objects within 1 object stream
+ 54 PDF objects out of 1000 (max. 8388607)
+ 37 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 13 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 23 words of extra memory for PDF output out of 10000 (max. 10000000)
 
